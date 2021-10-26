@@ -1,0 +1,15 @@
+Exercício 1 da Aula 3 (presença em 27/7)
+
+Analise a solução dos proprietários de carros que foi compartilhada na Área de Compartilhamento (pasta solucoes arquivo CORRIGIR_aula2exer1_solucoes.zip da solução do Guilherme) e indique para qual delas que você elaborou o Diagrama de Esquemas (DE) coerente a proposta de armazenamento de dados contidas nesta solução. Atente que não deve ser indicada a solução que está usando uma matriz bidimensional, por estar incorreta aos objetivos relacionados a evolução para implementação inicial em um SGBDR (Sistema Gerenciador de Banco de Dados Relacional).
+
+Assim, elabore o Diagrama de Esquemas relacionado a solução compartilhada, sendo este diagrama correspondente a implementação correta com o armazenamento dos dados dos proprietários e seus carros. Os estudantes que também tiverem elabora as duas estruturas coerentes a solução do problema solicitado e atendendo aos esclarecimentos abordados na última aula da turma poderão então criarem o Diagrama de Esquemas de sua própria solução entregue na atividade da Aula 2 Exercício 1.
+
+Atente ao padrão utilizado nesse diagrama (DE) e o empregue corretamente em sua solução, além da definição pelo professor que está atividade será indicativo de presença na aula de 27/7 (quem não elaborá-la e entregá-la estará com registro de falta na respectiva aula).
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula3exer1, seguida de seu primeiro e último nome somente e sua matrícula na UnB. Por exemplo, suponha que a aluna Dilma Vana Rousseff, com matrícula 12-582794, fosse entregar a solução dela. O nome do arquivo dela seria:
+
+aula3exer1_DilmaRousseff_12-582794.jpg (ou no padrão .pdf)
+ 
+ATENÇÃO
+
+É importante esclarecer que o arquivo que não puder ser aberto ou estiver com vírus não será considerado entregue nesta atividade, onerando o item E previsto no Plano de Ensino da disciplina.

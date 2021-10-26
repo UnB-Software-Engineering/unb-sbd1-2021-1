@@ -1,0 +1,25 @@
+Exercício 1 da Aula 2 (presença em 22/7)
+
+Análise o problema abaixo e elabore um programa em C que atenda as exigências para o armazenamento dos registros que serão cadastrados pelo usuário de seu programa. Respeite o padrão de entrega de seu programa fonte na Linguagem C usando struct para elaborar a estrutura heterogênea de um ou mais registros que deverão ser armazenados por seu programa, atendendo a demanda de seu usuário.
+
+Após as reflexões da última aula, escolha uma das soluções disponíveis na Área de Compartilhamento (pasta solucoes) no MOODLE da disciplina para atender as características apresentadas pelo professor na videoconferência. Essa evolução do programa que será elaborado deverá manipular o  arquivo de dados (ou arquivos) SEQUENCIALMENTE usando estruturas heterogêneas coerentes ao armazenamento regular e estruturado na linguagem utilizada. Isso deverá ser coerente ao armazenamento de registros lógicos relacionados a situação proposta no Exercício 1 da Aula 1 (proprietários de carros). Como estudado no material da Aula 2 cada estudante deverá analisar a solução escolhida (ou a sua própria se estiver coerente aos esclarecimentos da aula anterior) e fazer as correções que acredite serem necessárias, além de implementar e respeitar as características exigidas para este tipo de arquivo de armazenamento de dados (SEQUENCIAL).
+
+Sua solução deverá guardar estes dados de maneira eficiente para a recuperação e inclusão de novos cadastros no arquivo sequencial (ou arquivos sequencias) de dados que usará um identificador (dado que nunca se repete), também chamado de chave, para armazenar os dados na sequência dessa chave e não na ordem de cadastro que o usuário realizou.
+
+Lembro que a entrega dessa atividade corresponde ao indicador de presença na aula de 22/07/2021, conforme combinado na aula. Para os estudantes que não entregaram o primeiro exercício solicitado na aula anterior também é permitido elaborar esta atividade (segundo exercício), pois a atividade deverá ser feita sobre uma das soluções na Linguagem C que estão disponíveis na Área de Compartilhamento (pasta solucoes).
+
+Respeite o padrão de entrega de exercícios no MOODLE usando a expressão inicial aula2exer1, por exemplo, suponha que o aluno Edson Arantes do Nascimento, com matrícula 12-1223224, fosse entregar este exercício:
+
+aula2exer1_EdsonNascimento_12-1223224.c
+
+A solução elaborada deverá ser sobre um dos códigos em C disponível na Área de Compartilhamento ou na evolução da própria entrega na primeira atividade para quem fez e entregou na atividade anterior. As soluções que precisarem de mais esclarecimentos para executarem deverão criar ainda um arquivo LEIA-ME.txt e entregá-lo em um único arquivo compactado com o código fonte da solução. Essa compactação para ser aceita deverá manter o mesmo nome padrão, com compactação aceita somente no formato ZIP (outros formatos não serão aceitos se forem entregues, não sendo assim considerada entregue tal atividade que reflete na média final da disciplina pelo item E explicado no Plano de Ensino).
+
+Segue abaixo o nome padrão ZIP de entrega do único arquivo compactado para ser executado e avaliado pelo docente. Qualquer solução que não seja possível executar também será considerada não entregue nesta atividade.
+
+aula2exer1_EdsonNascimento_12-1223222.zip
+
+ATENÇÃO
+
+Observe a realidade que envolve uma única pessoa a ser proprietária de um (ou mais) automóvel no Brasil. Assim, verifique quais dados seriam necessários armazenar e registrar uma pessoa que possa ser identificada no país, além da identificação de um ou mais automóveis (carro somente) que sejam de sua propriedade.
+
+A entrega só será considerada realizada se for entregue o(s) arquivo(s) fonte(s) da solução elaborada e sem vírus para abertura do código, análise e execução.
